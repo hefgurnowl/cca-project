@@ -1,0 +1,14 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1793872893
+icon.svg::CompressedTexture2D::4952480520513582384::1790406201::1790406207::1::::<><><>0<>0<>5f13835c1b88c305057901e1d1d5b087<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+plot.txt::TextFile::-1::1792137670::0::1::::<><><>0<>0<><>::
+::res://addons/::1793327523
+::res://assets/::1793519379
+placeholder.png::CompressedTexture2D::5920535402232544087::1790774944::1790774985::1::::<><><>0<>0<>aadbbc98ac93e14222d8f3b4cba8c921<>res://.godot/imported/placeholder.png-98e7930e828c35923f039562160474e1.ctex::
+Sprite-0001.png::CompressedTexture2D::6950062800285651795::1790787098::1790787103::1::::<><><>0<>0<>ce674460a85a42e0eba465313338294e<>res://.godot/imported/Sprite-0001.png-301f2c522e57282b7df856433eb0ee72.ctex::
+sprite_base_addon_2012_12_14.png::CompressedTexture2D::657132421863862550::1790775339::1790775346::1::::<><><>0<>0<>6e43f8ae2c95cb8867f6d74fae8ab2cb<>res://.godot/imported/sprite_base_addon_2012_12_14.png-9c213139173520d79804511e1c0b6bf3.ctex::
+::res://scenes/::1793616476
+game.tscn::PackedScene::8756341279441389177::1793616476::0::1::::<><><>0<>0<><>::uid://bsuimd6cb4yq7::::res://scenes/playertype_1.tscn
+playertype_1.gd::GDScript::7088374584686875455::1793611730::0::1::::<>CharacterBody2D<><>0<>0<><>::
+playertype_1.tscn::PackedScene::3691614795280232600::1793611730::0::1::::<><><>0<>0<><>::uid://c78wq120cx8pf::::res://scenes/playertype_1.gd<>uid://jmk40qhcpk8u::::res://assets/sprite_base_addon_2012_12_14.png
+::res://scripts/::1793347172
